@@ -1,0 +1,10 @@
+total 52
+drwxrwxr-x 2 zhutian zhutian  4096 Apr 27 21:33 .
+drwxrwxr-x 6 zhutian zhutian  4096 Apr 27 19:52 ..
+-r---wx--- 1 zhutian zhutian    13 Apr 27 19:57 log
+-rw-rw-r-- 1 zhutian zhutian   193 Apr 27 20:26 makefile
+-rwxrwxr-x 1 zhutian zhutian  8712 Apr 27 21:33 meet_dup2
+-rw-rw-r-- 1 zhutian zhutian   493 Apr 27 19:56 meet_dup2.c
+-rw-rw-r-- 1 zhutian zhutian     0 Apr 27 21:33 myfile
+-rwxrwxr-x 1 zhutian zhutian 13408 Apr 27 21:33 myshell_dup2
+-rw-rw-r-- 1 zhutian zhutian  2398 Apr 27 21:32 myshell_dup2.c
