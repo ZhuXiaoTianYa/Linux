@@ -68,7 +68,8 @@ public:
                 new_sock.Close();
                 exit(0);
             }
-            pid_t ret = (pid, nullptr, 0);
+            new_sock.Close();
+            pid_t ret = waitpid(pid, nullptr, 0);
             std::cout << "wait success: " << ret << std::endl;
         }
         return true;
