@@ -1,0 +1,5 @@
+SIGCHLD:SIGCHLD.c
+	gcc SIGCHLD.c -o SIGCHLD
+.PHONY:clean
+clean:
+	rm -f SIGCHLD
